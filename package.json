@@ -1,0 +1,33 @@
+{
+  "type": "module",
+  "name": "mern-scaffold-oss",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mern-scaffold-oss": "index.js"
+  },
+  "keywords": [
+    "MERN",
+    "react",
+    "vite",
+    "express",
+    "boilerplate",
+    "web3 app",
+    "blockchain"
+  ],
+  "author": "jaytechent",
+  "license": "ISC",
+  "dependencies": {
+    "global-modules": "^2.0.0",
+    "inquirer": "^9.2.12",
+    "rxjs": "^7.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jaytechent/MERN-scaffold-OSS.git"
+  }
+}
